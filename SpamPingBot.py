@@ -101,4 +101,4 @@ async def on_message(message):
         await message.channel.send(file=discord.File(r'C:\Ron.mp3'))
         print("someone likes ron")
 
-client.run("OTc5ODU1NzAwMjQ5NDQ0MzUy.G_bGDM.ijMRaxFjT1K1hwhQH5a0zYbb8zsIlc53W8XOww")
+client.run("INSERT BOT TOKEN")
