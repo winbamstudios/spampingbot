@@ -1,0 +1,2 @@
+# spampingbot
+Fun discord bot
