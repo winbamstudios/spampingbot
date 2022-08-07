@@ -1,2 +1,3 @@
-# spampingbot
+# Spam Ping Bot
+## Features:
 Fun discord bot
